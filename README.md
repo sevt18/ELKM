@@ -30,4 +30,3 @@ Somos un equipo de dos personas. Con un equipo tan pequeño no necesitamos una e
 Somos novatos en la creación y manejo de repositorios y pipelines. GitHub Flow tiene pocas reglas y pocas ramas de corta duración, lo que reduce el riesgo de errores típicos de quien está aprendiendo, como fusionar en la rama equivocada o acumular conflictos difíciles de resolver. También nos obliga desde el inicio a practicar Pull Requests, revisión entre pares y pruebas automáticas, que son la base de un flujo DevSecOps.
 
 
-hola
